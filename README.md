@@ -1,2 +1,2 @@
 # Algotrading
-Contains sample 
+Contains code and other files for Algotrading (for demonstration purposes only)
